@@ -1,6 +1,6 @@
 # Epic & User Stories
 
-## Agile Epic
+## Epic
 
 An agile epic is a block of work that can be broken down into smaller more specific tasks, these tasks are called "user stories". These tasks are also based on the customer needs.
 

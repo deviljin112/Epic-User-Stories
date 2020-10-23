@@ -15,6 +15,11 @@ Key elements of an Agile Epic:
 - Teamwork and communication
 - Continous adaptation of user stories
 
+Guidelines for defining an Epic:
+
+- A story that is longer than 8 story points
+- A story that cant be completed in one sprint
+
 ### Example
 
 A company does a project. This project has to be fullfilled by multiple departments coordinating together. This project would be considered an Epic, as each story is aimed at fullfilling the main Epic. Its important that each team supports each other for an epic to be completed

@@ -44,7 +44,7 @@ Multiple teams are working on a project. The client asks that they want X Y Z fu
 
 A scrum framework allows teams to create multiple boards for each team. These boards would have a global epic that they would follow. While each team would have their own interpretations of the user stories that they will fullfil to complete an Epic.
 
-Because of the nature of Epic and User Stories, Scum is an essential part of a successful implementation. Scum has an explicit timeboxed interation called Sprints. This therefore allows a team to organise short weekly sprints which can be broken down to user story implementations. Scrum also is helpful at establishing a simple hierachy in a product backlog. This is useful for a good implementation of Epics and focusing each team at task at hand.
+Because of the nature of Epic and User Stories, scrum is an essential part of a successful implementation. Scrum has an explicit timeboxed interation called Sprints. This therefore allows a team to organise short weekly sprints which can be broken down to user story implementations. Scrum also is helpful at establishing a simple hierachy in a product backlog. This is useful for a good implementation of Epics and focusing each team at task at hand.
 
 ## Agile
 
